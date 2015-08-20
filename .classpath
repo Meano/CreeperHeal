@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="lib/bpermissions.jar"/>
+	<classpathentry kind="lib" path="lib/CreeperTrap.jar"/>
+	<classpathentry kind="lib" path="lib/Factions.jar"/>
+	<classpathentry kind="lib" path="lib/Lockette.jar"/>
+	<classpathentry kind="lib" path="lib/LWC.jar"/>
+	<classpathentry kind="lib" path="lib/mcore.jar"/>
+	<classpathentry kind="lib" path="lib/MobArena.jar"/>
+	<classpathentry kind="lib" path="lib/PlayerHeads.jar"/>
+	<classpathentry kind="lib" path="lib/SpoutPlugin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="../Library/Spigot-API-1.8.8.jar"/>
+	<classpathentry kind="lib" path="../Library/Spigot-1.8.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
